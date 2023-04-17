@@ -1,0 +1,9 @@
+cd '/d/IdeaProjects/CyberBionic Systematics Education/src/homework010_ Git/'
+mkdir Task01
+cd Task01
+git init
+touch project.java
+git status
+git add .
+git commit -m "Task01"
+git remote add origin https://github.com/vulook/myEducation/tree/master/src/homework010_Git/Task01.git
