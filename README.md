@@ -1,10 +1,10 @@
 # CyberBionic Systematics Education
 
-# myGIT
+##The theme: GIT (project myGIT)
 
 ![logo](https://github.com/vulook/myGIT/blob/main/git-github.jpg)
 
-## Java Developer:
+### Java Developer:
 1. Basics of Git.
 2. Publication of the repository.
 3. Integration with IDE
