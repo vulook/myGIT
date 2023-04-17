@@ -2,7 +2,7 @@
 
 # myGIT
 
-![logo](https://github.com/vulook/myGIT/blob/master/git-github.jpg)
+![logo](https://github.com/vulook/myGIT/blob/main/git-github.jpg)
 
 ## Java Developer:
 1. Basics of Git.
