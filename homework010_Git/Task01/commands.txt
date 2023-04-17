@@ -1,3 +1,5 @@
+# commands entered into the console
+
 cd '/d/IdeaProjects/CyberBionic Systematics Education/'
 git clone https://github.com/vulook/myGIT.git myGit
 cd myGit 
