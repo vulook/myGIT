@@ -7,7 +7,6 @@ mkdir homework010_Git
 cd homework010_Git
 mkdir Task01
 cd Task01
-git init
 touch project.java
 git status
 git add .
