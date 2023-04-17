@@ -1,6 +1,6 @@
 # CyberBionic Systematics Education
 
-##The theme: GIT (project myGIT)
+## The theme: GIT (project myGIT)
 
 ![logo](https://github.com/vulook/myGIT/blob/main/git-github.jpg)
 
