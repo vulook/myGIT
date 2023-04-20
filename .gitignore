@@ -97,12 +97,14 @@ fabric.properties
 .idea/caches/build_file_checksums.ser
 
 # IntelliJ project files
+
 .idea
 *.iml
 out
 gen
 
 ### Maven template
+
 target/
 pom.xml.tag
 pom.xml.releaseBackup
