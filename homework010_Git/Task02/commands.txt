@@ -1,0 +1,19 @@
+# commands entered into the console
+
+cd '/d/IdeaProjects/CyberBionic Systematics Education/myGit/'
+cd homework010_Git
+mkdir Task02
+cd Task02
+touch File1.java
+vim File1.java
+touch File2.java
+vim File2.java
+touch File3.java
+vim File3.java
+
+git status
+git add .
+git commit -m "Task02"
+git push
+
+
