@@ -1,6 +1,8 @@
-# commands entered into the console
+Task 03: Create the following file structure in the repository:
+geometry_lib
 
-cd homework010_Git
+# commands entered into the console
+cd ..
 mkdir Task03
 cd Task03
 

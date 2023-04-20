@@ -1,7 +1,12 @@
-# commands entered into the console
+Task02:
+Create 3 files and make changes (in the console):
+- 1st: surname, first name;
+- 2nd: email;
+- 3rd: name of the course.
+Add the files to the repository.
 
-cd '/d/IdeaProjects/CyberBionic Systematics Education/myGit/'
-cd homework010_Git
+# commands entered into the console
+cd ..
 mkdir Task02
 cd Task02
 touch File1.java

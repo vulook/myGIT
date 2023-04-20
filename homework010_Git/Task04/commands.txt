@@ -1,0 +1,26 @@
+Task 03: Task 04: Create the following file structure in the repository:
+my_site
+
+# commands entered into the console
+cd ..
+mkdir Task04
+cd Task04
+
+mkdir -p my_site/img my_site/css
+touch my_site/index.html
+vim my_site/index.html
+
+touch my_site/css/my_style.css
+vim my_site/css/my_style.css
+
+cd my_site/img
+curl -o cat.jpg https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e/NationalGeographic_2572187.jpg
+curl -o dog.jpg https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1240w,f_auto,q_auto:best/rockcms/2022-08/220805-border-collie-play-mn-1100-82d2f1.jpg
+curl -o turtle.jpg https://esinew.org/sites/default/files/reports/img/1HUH4.jpg
+
+git status
+git add .
+git commit -m "Task04"
+git push
+
+
