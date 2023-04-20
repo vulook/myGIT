@@ -1,0 +1,21 @@
+# commands entered into the console
+
+cd homework010_Git
+mkdir Task03
+cd Task03
+
+mkdir -p geometry_lib/docs geometry_lib/my_pyfiles
+touch geometry_lib/docs/instruction.txt
+vim geometry_lib/docs/instruction.txt
+
+touch geometry_lib/my_pyfiles/volumes.py geometry_lib/my_pyfiles/areas.py geometry_lib/my_pyfiles/perimeters.py
+vim geometry_lib/my_pyfiles/volumes.py
+vim geometry_lib/my_pyfiles/areas.py
+vim geometry_lib/my_pyfiles/perimeters.py
+
+git status
+git add .
+git commit -m "Task02"
+git push
+
+

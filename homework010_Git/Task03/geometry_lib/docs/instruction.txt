@@ -1,0 +1,7 @@
+Welcome to the geometry_lib package!
+
+This package contains modules with functions to calculate volumes, areas, and perimeters of different shapes.
+
+We hope you find this package useful for your geometric calculations.
+
+Thank you for using geometry_lib!
