@@ -1,0 +1,6 @@
+git branch newbranch
+git checkout -b newbranch
+git status
+git add .
+git commit -m "This is new branch"
+git push origin newbranch
